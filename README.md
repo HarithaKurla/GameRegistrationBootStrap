@@ -1,0 +1,2 @@
+# GameRegistrationBootStrap
+Bootstrapp demo
